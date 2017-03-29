@@ -7,8 +7,6 @@ Stock porfolio optimizer is done for maximizing the "Sharpe Ratio" or "culumativ
 
 
 ###Technologies Used-
-  Python 3.4( Scipy,Matplotlib, Pandas,Numpy, Scikit-learn)
-  Spyder Editor
-  Anaconda Platform
+  Python 3.4 (Scipy,Matplotlib, Pandas,Numpy, Scikit-learn)
   
   
